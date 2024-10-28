@@ -22,8 +22,8 @@ The `price_range` column is the target variable:
 ## Installation
  Clone the repository:
    ```bash
-   git clone https://github.com/dpoyyyy/svm.git
-   cd svm
+   git clone https://github.com/dpoyyyy/mobile-price-classification.git
+   cd mobile-price-classification
    ```
 
 ## Usage
