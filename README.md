@@ -20,19 +20,10 @@ The `price_range` column is the target variable:
 - `3`: Very high cost
 
 ## Installation
-
-1. Clone the repository:
+ Clone the repository:
    ```bash
    git clone https://github.com/dpoyyyy/svm.git
    cd svm
-   ```
-
-2. Install the dependencies:
-   ```bash
-sudo apt-get install python3
-
-pip install jupyter
-
    ```
 
 ## Usage
